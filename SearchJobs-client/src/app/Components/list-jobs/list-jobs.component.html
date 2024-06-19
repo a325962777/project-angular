@@ -1,0 +1,6 @@
+<div>
+    <app-filter (filterChanged)="changeFilter($event)" fieldWorkDefault="fieldWorkNum"></app-filter>
+</div>
+<div *ngFor="let job of listJobs">
+    <app-job [jobData]="job"></app-job>
+</div>

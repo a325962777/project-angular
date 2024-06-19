@@ -1,0 +1,19 @@
+$blue-color: #0050a5;
+$red-color: #dc3545;
+$white-color: #ffffff;
+// List Jobs Page Styles
+div {
+  margin: 10px;
+  padding: 10px;
+  border: 1px solid $blue-color;
+  background-color: $white-color;
+}
+
+button {
+  background-color: $red-color;
+  color: $white-color;
+  padding: 5px 10px;
+  border: none;
+  cursor: pointer;
+  margin: 5px;
+}

@@ -1,0 +1,10 @@
+<div>
+    <h3>name work :{{jobData.nameWork}}</h3>
+    <p>scope Hours : {{jobData.scopeHours}}</p>
+    <p>area : {{jobData.area}}</p>
+    <p>field work : {{jobData.fieldWork | enumTostring}}</p>
+    <p>Requirements : {{jobData.requirements}}</p>
+    <p *ngIf=" jobData.hybridWork">hybridWork</p>
+    <button (click)="sendCV()">send cv</button>
+    <button (click)="HideJobDetails()">Hide job details</button>
+</div>

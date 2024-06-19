@@ -1,0 +1,15 @@
+<form ngForm>
+    <label>Sort by field </label>
+    <select [(ngModel)]="filterData.fieldJob" name="fieldJob">
+        <option>ALL</option>
+        <option *ngFor="let i of allTipeJob">{{i}}</option>
+    </select>
+    <br>
+    <br>
+    <label>Sort by city </label>
+    <select [(ngModel)]="filterData.area" name="area">
+        <option>All</option>
+        <option *ngFor="let l of allCities">{{l}}</option>
+    </select>
+    <button type="submit" (click)="submitFilter()">Filter</button>
+</form>

@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "pgEE0DMy7l2BaApo5NggrtRTsE5kemKlq8TrrrCv9MM=",
+  "Source": "Search_Jobs-server",
+  "BasePath": "_content/Search_Jobs-server",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

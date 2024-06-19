@@ -1,0 +1,25 @@
+$blue-color: #0050a5;
+$red-color: #dc3545;
+$white-color: #ffffff;
+// Home Page Styles
+h1 {
+  color: $white-color;
+}
+
+nav {
+  background-color: $blue-color;
+  border-width: 2px;
+  color: $white-color;
+  padding: 10px;
+  margin: 10px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;
+  border: 3px solid $red-color;
+  border-radius: 5px;
+}
+.logo-img{
+  width: 80px; /* גודל התמונה של הלוגו */
+  height: auto;
+  // margin-top: 10px; /* קצת רווח מעל הלוגו */
+}

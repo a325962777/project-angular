@@ -1,0 +1,12 @@
+
+<nav><div><h1>HELLOW TO : {{user.userName}}</h1></div>
+    <div > <h2 [routerLink]="'allJobs/'+user.fieldWorkSearch ">{{user.fieldWorkSearch | enumTostring}}</h2></div>
+    <div><h2>NUM OF CV : {{user.numCVSent}}</h2></div>
+    <a [routerLink]="'/login'">
+        <img src="../../../assets/logo.png" alt="לוגו של האתר" class="logo-img">
+      </a>
+</nav>
+
+<!-- <app-list-jobs></app-list-jobs> -->
+<router-outlet></router-outlet>
+<nav>To contact the site manager : Avigail Heber | a0548562752&#64;gmail.com | 054-8562752</nav>

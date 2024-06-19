@@ -1,0 +1,16 @@
+<form #f="ngForm">
+    <div>
+
+        <input type="text" name="name" placeholder="Enter your name" [(ngModel)]="user.userName" #name="ngModel"
+            required maxlength="20">
+            <p [hidden]="name.valid || name.pristine">name is required</p>
+    </div>
+    <div>
+
+        <input type="password" name="password" placeholder="Enter your password" [(ngModel)]="user.password"
+            #password="ngModel" required minlength="8">
+        <p [hidden]="password.valid || password.pristine ">required field at least 8 characters</p>
+        <p [hidden]="!hasSpace(password.value)">Password does not contain spaces</p>
+    </div>
+    <button (click)="submitLogin()" [disabled]="name.invalid || password.invalid">login</button>
+</form>

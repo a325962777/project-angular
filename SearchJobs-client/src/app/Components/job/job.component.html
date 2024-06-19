@@ -1,0 +1,8 @@
+<div>
+<h3>name work :{{jobData.nameWork}}</h3>
+<p>scope Hours : {{jobData.scopeHours}}</p>
+<p>area  : {{jobData.area}}</p>
+<p>field work  : {{jobData.fieldWork | enumTostring}}</p>
+<button (click)="displayDetailsJob(jobData)">display Details Job</button>
+<button (click)="sendCV()">send cv</button>
+</div>

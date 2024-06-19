@@ -1,0 +1,113 @@
+E:\הנדסאים יד\angular\פרויקט\Search_Jobs-server\Search_Jobs-server\bin\Debug\net6.0\appsettings.Development.json
+E:\הנדסאים יד\angular\פרויקט\Search_Jobs-server\Search_Jobs-server\bin\Debug\net6.0\appsettings.json
+E:\הנדסאים יד\angular\פרויקט\Search_Jobs-server\Search_Jobs-server\bin\Debug\net6.0\Search_Jobs-server.exe
+E:\הנדסאים יד\angular\פרויקט\Search_Jobs-server\Search_Jobs-server\bin\Debug\net6.0\Search_Jobs-server.deps.json
+E:\הנדסאים יד\angular\פרויקט\Search_Jobs-server\Search_Jobs-server\bin\Debug\net6.0\Search_Jobs-server.runtimeconfig.json
+E:\הנדסאים יד\angular\פרויקט\Search_Jobs-server\Search_Jobs-server\bin\Debug\net6.0\Search_Jobs-server.dll
+E:\הנדסאים יד\angular\פרויקט\Search_Jobs-server\Search_Jobs-server\bin\Debug\net6.0\Search_Jobs-server.pdb
+E:\הנדסאים יד\angular\פרויקט\Search_Jobs-server\Search_Jobs-server\bin\Debug\net6.0\Microsoft.OpenApi.dll
+E:\הנדסאים יד\angular\פרויקט\Search_Jobs-server\Search_Jobs-server\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\הנדסאים יד\angular\פרויקט\Search_Jobs-server\Search_Jobs-server\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\הנדסאים יד\angular\פרויקט\Search_Jobs-server\Search_Jobs-server\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\הנדסאים יד\angular\פרויקט\Search_Jobs-server\Search_Jobs-server\obj\Debug\net6.0\Search_Jobs-server.csproj.AssemblyReference.cache
+E:\הנדסאים יד\angular\פרויקט\Search_Jobs-server\Search_Jobs-server\obj\Debug\net6.0\Search_Jobs-server.GeneratedMSBuildEditorConfig.editorconfig
+E:\הנדסאים יד\angular\פרויקט\Search_Jobs-server\Search_Jobs-server\obj\Debug\net6.0\Search_Jobs-server.AssemblyInfoInputs.cache
+E:\הנדסאים יד\angular\פרויקט\Search_Jobs-server\Search_Jobs-server\obj\Debug\net6.0\Search_Jobs-server.AssemblyInfo.cs
+E:\הנדסאים יד\angular\פרויקט\Search_Jobs-server\Search_Jobs-server\obj\Debug\net6.0\Search_Jobs-server.csproj.CoreCompileInputs.cache
+E:\הנדסאים יד\angular\פרויקט\Search_Jobs-server\Search_Jobs-server\obj\Debug\net6.0\Search_Jobs-server.MvcApplicationPartsAssemblyInfo.cs
+E:\הנדסאים יד\angular\פרויקט\Search_Jobs-server\Search_Jobs-server\obj\Debug\net6.0\Search_Jobs-server.MvcApplicationPartsAssemblyInfo.cache
+E:\הנדסאים יד\angular\פרויקט\Search_Jobs-server\Search_Jobs-server\obj\Debug\net6.0\staticwebassets.build.json
+E:\הנדסאים יד\angular\פרויקט\Search_Jobs-server\Search_Jobs-server\obj\Debug\net6.0\staticwebassets.development.json
+E:\הנדסאים יד\angular\פרויקט\Search_Jobs-server\Search_Jobs-server\obj\Debug\net6.0\scopedcss\bundle\Search_Jobs-server.styles.css
+E:\הנדסאים יד\angular\פרויקט\Search_Jobs-server\Search_Jobs-server\obj\Debug\net6.0\Search_Jobs-server.csproj.CopyComplete
+E:\הנדסאים יד\angular\פרויקט\Search_Jobs-server\Search_Jobs-server\obj\Debug\net6.0\Search_Jobs-server.dll
+E:\הנדסאים יד\angular\פרויקט\Search_Jobs-server\Search_Jobs-server\obj\Debug\net6.0\refint\Search_Jobs-server.dll
+E:\הנדסאים יד\angular\פרויקט\Search_Jobs-server\Search_Jobs-server\obj\Debug\net6.0\Search_Jobs-server.pdb
+E:\הנדסאים יד\angular\פרויקט\Search_Jobs-server\Search_Jobs-server\obj\Debug\net6.0\Search_Jobs-server.genruntimeconfig.cache
+E:\הנדסאים יד\angular\פרויקט\Search_Jobs-server\Search_Jobs-server\obj\Debug\net6.0\ref\Search_Jobs-server.dll
+C:\Users\1\Documents\המסמכים שלי\הנדסאים-יד\אנגולר-קראוס\project\Search_Jobs-server\Search_Jobs-server\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\1\Documents\המסמכים שלי\הנדסאים-יד\אנגולר-קראוס\project\Search_Jobs-server\Search_Jobs-server\bin\Debug\net6.0\appsettings.json
+C:\Users\1\Documents\המסמכים שלי\הנדסאים-יד\אנגולר-קראוס\project\Search_Jobs-server\Search_Jobs-server\bin\Debug\net6.0\Search_Jobs-server.exe
+C:\Users\1\Documents\המסמכים שלי\הנדסאים-יד\אנגולר-קראוס\project\Search_Jobs-server\Search_Jobs-server\bin\Debug\net6.0\Search_Jobs-server.deps.json
+C:\Users\1\Documents\המסמכים שלי\הנדסאים-יד\אנגולר-קראוס\project\Search_Jobs-server\Search_Jobs-server\bin\Debug\net6.0\Search_Jobs-server.runtimeconfig.json
+C:\Users\1\Documents\המסמכים שלי\הנדסאים-יד\אנגולר-קראוס\project\Search_Jobs-server\Search_Jobs-server\bin\Debug\net6.0\Search_Jobs-server.dll
+C:\Users\1\Documents\המסמכים שלי\הנדסאים-יד\אנגולר-קראוס\project\Search_Jobs-server\Search_Jobs-server\bin\Debug\net6.0\Search_Jobs-server.pdb
+C:\Users\1\Documents\המסמכים שלי\הנדסאים-יד\אנגולר-קראוס\project\Search_Jobs-server\Search_Jobs-server\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\1\Documents\המסמכים שלי\הנדסאים-יד\אנגולר-קראוס\project\Search_Jobs-server\Search_Jobs-server\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\1\Documents\המסמכים שלי\הנדסאים-יד\אנגולר-קראוס\project\Search_Jobs-server\Search_Jobs-server\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\1\Documents\המסמכים שלי\הנדסאים-יד\אנגולר-קראוס\project\Search_Jobs-server\Search_Jobs-server\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\1\Documents\המסמכים שלי\הנדסאים-יד\אנגולר-קראוס\project\Search_Jobs-server\Search_Jobs-server\obj\Debug\net6.0\Search_Jobs-server.csproj.AssemblyReference.cache
+C:\Users\1\Documents\המסמכים שלי\הנדסאים-יד\אנגולר-קראוס\project\Search_Jobs-server\Search_Jobs-server\obj\Debug\net6.0\Search_Jobs-server.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\1\Documents\המסמכים שלי\הנדסאים-יד\אנגולר-קראוס\project\Search_Jobs-server\Search_Jobs-server\obj\Debug\net6.0\Search_Jobs-server.AssemblyInfoInputs.cache
+C:\Users\1\Documents\המסמכים שלי\הנדסאים-יד\אנגולר-קראוס\project\Search_Jobs-server\Search_Jobs-server\obj\Debug\net6.0\Search_Jobs-server.AssemblyInfo.cs
+C:\Users\1\Documents\המסמכים שלי\הנדסאים-יד\אנגולר-קראוס\project\Search_Jobs-server\Search_Jobs-server\obj\Debug\net6.0\Search_Jobs-server.csproj.CoreCompileInputs.cache
+C:\Users\1\Documents\המסמכים שלי\הנדסאים-יד\אנגולר-קראוס\project\Search_Jobs-server\Search_Jobs-server\obj\Debug\net6.0\Search_Jobs-server.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\1\Documents\המסמכים שלי\הנדסאים-יד\אנגולר-קראוס\project\Search_Jobs-server\Search_Jobs-server\obj\Debug\net6.0\Search_Jobs-server.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\1\Documents\המסמכים שלי\הנדסאים-יד\אנגולר-קראוס\project\Search_Jobs-server\Search_Jobs-server\obj\Debug\net6.0\staticwebassets\msbuild.Search_Jobs-server.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\1\Documents\המסמכים שלי\הנדסאים-יד\אנגולר-קראוס\project\Search_Jobs-server\Search_Jobs-server\obj\Debug\net6.0\staticwebassets\msbuild.build.Search_Jobs-server.props
+C:\Users\1\Documents\המסמכים שלי\הנדסאים-יד\אנגולר-קראוס\project\Search_Jobs-server\Search_Jobs-server\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Search_Jobs-server.props
+C:\Users\1\Documents\המסמכים שלי\הנדסאים-יד\אנגולר-קראוס\project\Search_Jobs-server\Search_Jobs-server\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Search_Jobs-server.props
+C:\Users\1\Documents\המסמכים שלי\הנדסאים-יד\אנגולר-קראוס\project\Search_Jobs-server\Search_Jobs-server\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\1\Documents\המסמכים שלי\הנדסאים-יד\אנגולר-קראוס\project\Search_Jobs-server\Search_Jobs-server\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\1\Documents\המסמכים שלי\הנדסאים-יד\אנגולר-קראוס\project\Search_Jobs-server\Search_Jobs-server\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\1\Documents\המסמכים שלי\הנדסאים-יד\אנגולר-קראוס\project\Search_Jobs-server\Search_Jobs-server\obj\Debug\net6.0\scopedcss\bundle\Search_Jobs-server.styles.css
+C:\Users\1\Documents\המסמכים שלי\הנדסאים-יד\אנגולר-קראוס\project\Search_Jobs-server\Search_Jobs-server\obj\Debug\net6.0\Search_Jobs-server.csproj.CopyComplete
+C:\Users\1\Documents\המסמכים שלי\הנדסאים-יד\אנגולר-קראוס\project\Search_Jobs-server\Search_Jobs-server\obj\Debug\net6.0\Search_Jobs-server.dll
+C:\Users\1\Documents\המסמכים שלי\הנדסאים-יד\אנגולר-קראוס\project\Search_Jobs-server\Search_Jobs-server\obj\Debug\net6.0\refint\Search_Jobs-server.dll
+C:\Users\1\Documents\המסמכים שלי\הנדסאים-יד\אנגולר-קראוס\project\Search_Jobs-server\Search_Jobs-server\obj\Debug\net6.0\Search_Jobs-server.pdb
+C:\Users\1\Documents\המסמכים שלי\הנדסאים-יד\אנגולר-קראוס\project\Search_Jobs-server\Search_Jobs-server\obj\Debug\net6.0\Search_Jobs-server.genruntimeconfig.cache
+C:\Users\1\Documents\המסמכים שלי\הנדסאים-יד\אנגולר-קראוס\project\Search_Jobs-server\Search_Jobs-server\obj\Debug\net6.0\ref\Search_Jobs-server.dll
+D:\Search_Jobs-server\Search_Jobs-server\bin\Debug\net6.0\appsettings.Development.json
+D:\Search_Jobs-server\Search_Jobs-server\bin\Debug\net6.0\appsettings.json
+D:\Search_Jobs-server\Search_Jobs-server\bin\Debug\net6.0\Search_Jobs-server.exe
+D:\Search_Jobs-server\Search_Jobs-server\bin\Debug\net6.0\Search_Jobs-server.deps.json
+D:\Search_Jobs-server\Search_Jobs-server\bin\Debug\net6.0\Search_Jobs-server.runtimeconfig.json
+D:\Search_Jobs-server\Search_Jobs-server\bin\Debug\net6.0\Search_Jobs-server.dll
+D:\Search_Jobs-server\Search_Jobs-server\bin\Debug\net6.0\Search_Jobs-server.pdb
+D:\Search_Jobs-server\Search_Jobs-server\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\Search_Jobs-server\Search_Jobs-server\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Search_Jobs-server\Search_Jobs-server\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Search_Jobs-server\Search_Jobs-server\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Search_Jobs-server\Search_Jobs-server\obj\Debug\net6.0\Search_Jobs-server.csproj.AssemblyReference.cache
+D:\Search_Jobs-server\Search_Jobs-server\obj\Debug\net6.0\Search_Jobs-server.GeneratedMSBuildEditorConfig.editorconfig
+D:\Search_Jobs-server\Search_Jobs-server\obj\Debug\net6.0\Search_Jobs-server.AssemblyInfoInputs.cache
+D:\Search_Jobs-server\Search_Jobs-server\obj\Debug\net6.0\Search_Jobs-server.AssemblyInfo.cs
+D:\Search_Jobs-server\Search_Jobs-server\obj\Debug\net6.0\Search_Jobs-server.csproj.CoreCompileInputs.cache
+D:\Search_Jobs-server\Search_Jobs-server\obj\Debug\net6.0\Search_Jobs-server.MvcApplicationPartsAssemblyInfo.cs
+D:\Search_Jobs-server\Search_Jobs-server\obj\Debug\net6.0\Search_Jobs-server.MvcApplicationPartsAssemblyInfo.cache
+D:\Search_Jobs-server\Search_Jobs-server\obj\Debug\net6.0\staticwebassets.build.json
+D:\Search_Jobs-server\Search_Jobs-server\obj\Debug\net6.0\staticwebassets.development.json
+D:\Search_Jobs-server\Search_Jobs-server\obj\Debug\net6.0\scopedcss\bundle\Search_Jobs-server.styles.css
+D:\Search_Jobs-server\Search_Jobs-server\obj\Debug\net6.0\Search_Jobs-server.csproj.CopyComplete
+D:\Search_Jobs-server\Search_Jobs-server\obj\Debug\net6.0\Search_Jobs-server.dll
+D:\Search_Jobs-server\Search_Jobs-server\obj\Debug\net6.0\refint\Search_Jobs-server.dll
+D:\Search_Jobs-server\Search_Jobs-server\obj\Debug\net6.0\Search_Jobs-server.pdb
+D:\Search_Jobs-server\Search_Jobs-server\obj\Debug\net6.0\Search_Jobs-server.genruntimeconfig.cache
+D:\Search_Jobs-server\Search_Jobs-server\obj\Debug\net6.0\ref\Search_Jobs-server.dll
+D:\project angular\Search_Jobs-server\Search_Jobs-server\bin\Debug\net6.0\appsettings.Development.json
+D:\project angular\Search_Jobs-server\Search_Jobs-server\bin\Debug\net6.0\appsettings.json
+D:\project angular\Search_Jobs-server\Search_Jobs-server\bin\Debug\net6.0\Search_Jobs-server.exe
+D:\project angular\Search_Jobs-server\Search_Jobs-server\bin\Debug\net6.0\Search_Jobs-server.deps.json
+D:\project angular\Search_Jobs-server\Search_Jobs-server\bin\Debug\net6.0\Search_Jobs-server.runtimeconfig.json
+D:\project angular\Search_Jobs-server\Search_Jobs-server\bin\Debug\net6.0\Search_Jobs-server.dll
+D:\project angular\Search_Jobs-server\Search_Jobs-server\bin\Debug\net6.0\Search_Jobs-server.pdb
+D:\project angular\Search_Jobs-server\Search_Jobs-server\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\project angular\Search_Jobs-server\Search_Jobs-server\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\project angular\Search_Jobs-server\Search_Jobs-server\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\project angular\Search_Jobs-server\Search_Jobs-server\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\project angular\Search_Jobs-server\Search_Jobs-server\obj\Debug\net6.0\Search_Jobs-server.csproj.AssemblyReference.cache
+D:\project angular\Search_Jobs-server\Search_Jobs-server\obj\Debug\net6.0\Search_Jobs-server.GeneratedMSBuildEditorConfig.editorconfig
+D:\project angular\Search_Jobs-server\Search_Jobs-server\obj\Debug\net6.0\Search_Jobs-server.AssemblyInfoInputs.cache
+D:\project angular\Search_Jobs-server\Search_Jobs-server\obj\Debug\net6.0\Search_Jobs-server.AssemblyInfo.cs
+D:\project angular\Search_Jobs-server\Search_Jobs-server\obj\Debug\net6.0\Search_Jobs-server.csproj.CoreCompileInputs.cache
+D:\project angular\Search_Jobs-server\Search_Jobs-server\obj\Debug\net6.0\Search_Jobs-server.MvcApplicationPartsAssemblyInfo.cs
+D:\project angular\Search_Jobs-server\Search_Jobs-server\obj\Debug\net6.0\Search_Jobs-server.MvcApplicationPartsAssemblyInfo.cache
+D:\project angular\Search_Jobs-server\Search_Jobs-server\obj\Debug\net6.0\staticwebassets.build.json
+D:\project angular\Search_Jobs-server\Search_Jobs-server\obj\Debug\net6.0\staticwebassets.development.json
+D:\project angular\Search_Jobs-server\Search_Jobs-server\obj\Debug\net6.0\scopedcss\bundle\Search_Jobs-server.styles.css
+D:\project angular\Search_Jobs-server\Search_Jobs-server\obj\Debug\net6.0\Search_Jobs-server.csproj.CopyComplete
+D:\project angular\Search_Jobs-server\Search_Jobs-server\obj\Debug\net6.0\Search_Jobs-server.dll
+D:\project angular\Search_Jobs-server\Search_Jobs-server\obj\Debug\net6.0\refint\Search_Jobs-server.dll
+D:\project angular\Search_Jobs-server\Search_Jobs-server\obj\Debug\net6.0\Search_Jobs-server.pdb
+D:\project angular\Search_Jobs-server\Search_Jobs-server\obj\Debug\net6.0\Search_Jobs-server.genruntimeconfig.cache
+D:\project angular\Search_Jobs-server\Search_Jobs-server\obj\Debug\net6.0\ref\Search_Jobs-server.dll
